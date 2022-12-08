@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fastai-notes"
+  site-url: "https://Shuyib.github.io/fastai-notes"
+  description: "Testing nbdev with fastai team notebooks."
+  repo-branch: main
+  repo-url: "https://github.com/Shuyib/fastai-notes"
